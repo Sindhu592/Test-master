@@ -1,5 +1,3 @@
-package com.concord.backend.codesnippet;
-
 public class Palindrome {
     public static void main(String[] args) {
 
